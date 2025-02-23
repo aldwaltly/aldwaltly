@@ -19,6 +19,6 @@ Welcome to my GitHub! I'm a **second-year student** at **Cairo University**, maj
 - **Tools**: Jupyter Notebook, VS Code, Git  
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](#) | 📝 [Portfolio](#) | ✉️ Email: youssef@example.com  
+💼 [LinkedIn](linkedin.com/in/youssef-eldwaltly) | 📝 | ✉️ Email: youssef2005aldwaltly@gmail.com  
 
 🚀 **Always learning, always building!**  
