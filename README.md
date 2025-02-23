@@ -14,11 +14,11 @@ Welcome to my GitHub! I'm a **second-year student** at **Cairo University**, maj
 🐍 **Python Developer** – Writing clean and efficient code  
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python, SQL, C++  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Selenium, BeautifulSoup  
+- **Languages**: Python, SQL, C++, Java  
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Selenium, BeautifulSoup, Scipy, matplotlip, seaborn  
 - **Tools**: Jupyter Notebook, VS Code, Git  
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](linkedin.com/in/youssef-eldwaltly) | 📝 | ✉️ Email: youssef2005aldwaltly@gmail.com  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-eldwaltly/) | 📝 | ✉️ [Email Me](mailto:youssef2005aldwaltly@gmail.com)  
 
 🚀 **Always learning, always building!**  
