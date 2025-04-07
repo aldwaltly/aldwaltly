@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **second-year student** at **Cairo University**, maj
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python, SQL, C++, Java  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Selenium, BeautifulSoup, Scipy, matplotlip, seaborn  
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Selenium, BeautifulSoup, Scipy, matplotlip, Plotly, seaborn, streamlit, dash  
 - **Tools**: Jupyter Notebook, VS Code, Git  
 
 ## 📫 Let's Connect!  
